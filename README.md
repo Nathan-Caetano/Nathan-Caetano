@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hello there! 👋
 
-<!--
-**Nathan-Caetano/Nathan-Caetano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Nathan, a software developer!
 
-Here are some ideas to get you started:
+Since I was a kid, I’ve always been fascinated by the world of technology, computers, video games, and everything in between.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+This passion motivated me to start studying software development, and here you’ll find some of the projects I've been working on as I continue to grow in this field.
+
+### 🛠️ Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge\&logo=javascript)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge\&logo=node.js)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge\&logo=python)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge\&logo=react)
+![React Native](https://img.shields.io/badge/React%20Native-000?style=for-the-badge\&logo=react)
