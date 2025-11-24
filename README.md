@@ -14,3 +14,5 @@ This passion motivated me to start studying software development, and here youâ€
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge\&logo=python)
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge\&logo=react)
 ![React Native](https://img.shields.io/badge/React%20Native-000?style=for-the-badge\&logo=react)
+
+![snake gif](https://github.com/Nathan-Caetano/Nathan-Caetano/blob/output/github-snake-dark.svg)
